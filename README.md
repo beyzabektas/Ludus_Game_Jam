@@ -1,4 +1,4 @@
-![HlEFbm](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/b41300a7-4587-4bbc-8339-7e0388d1df26)
+![HlEFbm](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/d2288ca8-c4a1-42ea-81df-2cfa6fe4143d)
 
 # Zamanın İzinden
 
@@ -18,10 +18,11 @@ Beyza Arıbaş/ Beyzanur Bektaş /Emine Gül /Zeynep İnce
 
 Bu oyun Mriya Games 'in düzenlediği Ludus Jam için 48 saatte geliştirilmiştir.
 
-![oyunmenu](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/5ff7f10a-8f30-42d2-bae8-41de4bf15f1c)
+![oyunmenu](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/60d53df1-d6cd-4ca2-994f-8f57e8acbe81)
 
-![bir](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/15be48eb-0b22-404f-a14d-e64d3ce2668e)
+![bir](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/aeafb16b-fd81-4ab9-a052-5c357a74474c)
 
-![iki](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/032390b6-779d-4c8a-9200-93a6d9a9157b)
+![iki](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/556e3f83-003e-4141-917d-f2a2f5046a9b)
 
-![uc](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/a2cdcfc5-1932-416c-8e32-3c5097ae6d86)
+![uc](https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/2124a559-bb22-4494-9033-b1572f7428fb)
+
