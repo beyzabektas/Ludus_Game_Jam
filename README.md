@@ -1,15 +1,10 @@
 <div align="center">
-<img src="https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/d2288ca8-c4a1-42ea-81df-2cfa6fe4143d" width="1000" height="400" />
+<img src="https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/d2288ca8-c4a1-42ea-81df-2cfa6fe4143d" width="500" height="200" />
 </div>
 
 <div align="center">
-  
 
- BEBZI GAMES EKİBİ
-
-Beyza Arıbaş/ Beyzanur Bektaş /Emine Gül /Zeynep İnce
-
-Bu oyun Mriya Games 'in düzenlediği Ludus Jam için 48 saatte geliştirilmiştir.
+Mriya Games 'in düzenlediği Ludus Jam için 48 saatte geliştirilmiştir.
 
 <div align="center">
 <img src="https://github.com/beyzabektas/Ludus_Game_Jam/assets/91256847/60d53df1-d6cd-4ca2-994f-8f57e8acbe81" width="400" height="200" />
